@@ -1,0 +1,10 @@
+require(faraway)
+data(ozone)
+require(mgcv)
+gamobj<-gam(log(O3)~s(vh)+s(wind)+s(humidity)+s(temp)+s(ibh)+
+              s(dpg)+s(ibt)+s(vis)+s(doy),
+            family=gaussian(link=identity),data=ozone)
+summary(gamobj)
+par(mfrow=c(3,3))
+plot(gamobj)
+#dev.off()

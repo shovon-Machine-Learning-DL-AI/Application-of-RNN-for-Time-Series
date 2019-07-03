@@ -1,0 +1,21 @@
+Books: 
+1)	Introduction to Linear Regression Analysis 
+-	Douglas C. Montgomery, Elizabeth A. Peck, G. Geoffrey Vining
+
+2)	An Introduction to Statistical Learning – with applications in R
+
+Links:
+http://scc.stat.ucla.edu/page_attachments/0000/0199/Regression.pdf
+http://scc.stat.ucla.edu/page_attachments/0000/0140/reg_2.pdf
+https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/
+http://statweb.stanford.edu/~tibs/sta305files/Rudyregularization.pdf
+https://codingstartups.com/practical-machine-learning-ridge-regression-vs-lasso/
+http://alex.smola.org/teaching/cmu2013-10-701/slides/13_recitation_lasso.pdf
+https://www.youtube.com/watch?v=RdR1lRQ_WQc (Video)
+
+
+Online Courses:
+https://www.udemy.com/linear-regression-in-r-for-data-scientists/
+https://www.udemy.com/linear-regression-glms-and-gams-with-r/
+https://www.coursera.org/learn/linear-regression-model
+
