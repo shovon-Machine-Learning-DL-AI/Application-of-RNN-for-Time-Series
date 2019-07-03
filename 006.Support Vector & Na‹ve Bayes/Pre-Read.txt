@@ -1,0 +1,27 @@
+Videos: SVM and Naive Bayes algorithm
+1.https://youtu.be/_PwhiWxHK8o
+2.https://youtu.be/bsbpqNIKQzU
+3.https://youtu.be/os-NaA0ldGs
+4.https://youtu.be/EGKeC2S44Rs
+5.https://youtu.be/psHrcSacU9Y
+
+
+Blogs - SVM and Naive Bayes algorithm
+1.https://www.kdnuggets.com/2017/08/support-vector-machines-learning-svms-examples.html/2
+2.https://magoosh.com/data-science/support-vector-machine/
+3.https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/
+4.https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72
+5.https://medium.com/@pushkarmandot/what-is-the-significance-of-c-value-in-support-vector-machine-28224e852c5a
+6.https://www.sciencedirect.com/science/article/pii/S0957417404001526
+7.https://dl.acm.org/citation.cfm?id=383974
+8.https://blog.statsbot.co/support-vector-machines-tutorial-c1618e635e93
+9.https://medium.com/@aneesha/svm-parameter-tuning-in-scikit-learn-using-gridsearchcv-2413c02125a0
+10.https://medium.com/machine-learning-101/chapter-1-supervised-learning-and-naive-bayes-classification-part-1-theory-8b9e361897d5
+11.https://medium.com/@gp_pulipaka/applying-gaussian-na%C3%AFve-bayes-classifier-in-python-part-one-9f82aa8d9ec4
+12.https://medium.com/@Synced/applying-multinomial-naive-bayes-to-nlp-problems-a-practical-explanation-4f5271768ebf
+13.https://www.r-bloggers.com/naive-bayes-classification-in-r-part-1/
+14.https://www.r-bloggers.com/naive-bayes-classification-in-r-part-2/
+15.https://rpubs.com/cen0te/naivebayes-sentimentpolarity
+16.https://rpubs.com/cyobero/naive-bayes
+17.https://rpubs.com/sebnemer/SVM
+18.http://rpubs.com/dimensionless/svm

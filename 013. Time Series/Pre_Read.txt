@@ -1,0 +1,17 @@
+Blogs:
+•	https://medium.com/@josemarcialportilla/using-python-and-auto-arima-to-forecast-seasonal-time-series-90877adff03c
+•	https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a
+•	https://medium.com/machine-learning-world/neural-networks-for-algorithmic-trading-part-one-simple-time-series-forecasting-f992daa1045a
+•	https://blog.statsbot.co/time-series-anomaly-detection-algorithms-1cef5519aef2
+•	https://cran.r-project.org/web/views/TimeSeries.html
+•	https://tensorflow.rstudio.com/blog/time-series-forecasting-with-recurrent-neural-networks.html
+
+Videos:
+•	Time Series Forecasting Theory | AR, MA, ARMA, ARIMA | Data Science - https://www.youtube.com/watch?v=Aw77aMLj9uM
+•	Time Series In R | Time Series Forecasting | Time Series Analysis | Data Science Training | Edureka – https://www.youtube.com/watch?v=wNB8AgZPFLU
+•	Time Series Analysis with forecast Package in R Example Tutorial - https://www.youtube.com/watch?v=Zu1iimmsKD0
+•	Time Series Analysis |MIT Open Course -https://www.youtube.com/watch?v=uBeM1FUk4Ps
+
+Online books:
+•	Forecasting: principles and practice (Rob Hyndman) - https://www.otexts.org/fpp.
+•	Walter ENDERS: Applied Econometric Time Series

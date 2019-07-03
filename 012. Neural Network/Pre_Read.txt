@@ -1,0 +1,12 @@
+1.	https://arxiv.org/pdf/1605.06444.pdf
+2.	https://www.microsoft.com/en-us/research/wp-content/uploads/2012/01/tricks-2012.pdf
+3.	https://medium.com/intuitionmachine/deep-learning-the-unreasonable-effectiveness-of-randomness-14d5aef13f87
+4.	Book - Neural Networks and Learning Machines by Simon Haykin
+5.	Book - Deep Learning (Adaptive Computation and Machine Learning series) by Ian Goodfellow, Yoshua Bengio et. al
+6.	https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1
+7.	https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464
+8.	https://towardsdatascience.com/neural-network-architectures-156e5bad51ba
+9.	https://towardsdatascience.com/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0
+10.	https://medium.com/datalogue/attention-in-keras-1892773a4f22
+11.	https://www.youtube.com/watch?v=7PiK4wtfvbA&list=PLBAGcD3siRDguyYYzhVwZ3tLvOyyG5k6K
+12.	Deep Neural Networks (DNNs) by Andrew Ng [full course] : https://goo.gl/rMEKU3
